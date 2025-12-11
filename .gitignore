@@ -1,0 +1,8 @@
+venv/
+
+
+models/*.joblib
+models/*.json
+
+data/*.csv
+data/*.xlsx
